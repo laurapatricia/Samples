@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Laura Patricia's Portfolio</title>
+    <link href="_css/stylesheet.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+
+<body>
+	<div id="container">
+    
+    <div id="navBar">
+    	<a href="index.html"><img src="_images/identity/laurapatricia_logo.png" height="252" width="169" alt="www.laurapatricia.me"></a>
+		<ul>
+        	<li><a href="portfolio.html">PORTFOLIO</a></li>
+            <li><a href="about.html">ABOUT</a></li>
+			<li><a href="connect.html">CONNECT</a></li>
+<!--        	<li><a href="blog.html">BLOG</a></li>		-->
+    	</ul><!--closes unordered list-->
+	</div><!--closes navBar-->
+    
+    <div id="frame">
+    	<div id="frameName">
+        	<img src="_images/identity/laurapatricia_nameplate.png" height="48" width="355" alt="Laura Patricia">
+            <p>GRAPHIC DESIGNER</p>
+        </div><!--closes frameName-->
+
+        <div id="homeSidebarOne">
+    		<p><a href="connect.html"><img src="_images/arrows/purple/body_arrow.png" height="30" width="17" alt="Let's Connect"></a></p>
+            <p>Let's<br> Connect</p>
+    	</div><!--closes homeSidebarOne-->
+
+        <div id="frameOnePortfolioHome">        
+        	<a href="portfolio.html"><img src="_images/porfolio/landing/cielito_lindo.png" height="623" width="439" alt="Cielito Lindo"></a>        	
+        </div><!--closes frameOnePortfolio-->
+        
+        <div id="frameTwoPortfolioHome">	
+            <a href="portfolio.html"><img src="_images/porfolio/landing/garde_manager_covers.png" height="624" width="436" alt="Garde Manger Covers"></a>   
+        </div><!--closes frameTwoPortfolio-->
+
+		<div id="homeSidebarTwo">
+            <p>About<br>Me</p>
+    		<p><a href="about.html"><img src="_images/arrows/purple/body_arrow.png" height="30" width="17" alt="About"></a></p>
+    	</div><!--closes sidebarTwo-->
+
+        <div id="frameThreePortfolioHome">	
+        	<a href="portfolio.html"><img src="_images/porfolio/landing/glass_sculpture.png" height="410" width="537" alt="Glass Sculpture"></a>        	
+        </div><!--closes frameThreeAPortfolio-->
+        
+<!--        
+		<div id="homeSidebarThree">
+    		<p><a href="blog.html"><img src="_images/arrows/body_arrow.png" height="30" width="17" alt="Blogroll"></a></p>
+            <p>Blog</p>
+    	</div><!--closes sidebarThree-->
+
+    </div><!--closes frame-->
+</div><!--closes container-->
+
+</body>
+</html>
