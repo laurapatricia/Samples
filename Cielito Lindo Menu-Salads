@@ -1,0 +1,98 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Cielito Lindo :: Menu - Salads</title>
+    <link href="_css/style.css" rel="stylesheet" type="text/css" media="all" /> 
+</head>
+
+<body>
+<div id="container">
+
+	<div id="header">
+    	<a href="index.html"><img src="_images/logo/cielito_lindo_logo.png" width="328" height="65" alt="Cielito Lindo"></a>
+        <div id="tagline">
+        	<p>Dine Under the Heavens</p>
+        </div><!--closes tagline-->
+	</div><!--closes header-->
+    
+    <div id="reservations">
+    	<a href="#"><p class="button">MAKE A RESERVATION</p></a>
+    </div><!--closes reservations-->
+    
+    <div id="nav">
+   	  <ul>
+        	<li><a href="#">ABOUT</a></li>
+        	<li>MENU</li>
+        	<li><a href="#">SPECIAL EVENTS</a></li>
+        	<li><a href="#">CONTACT US</a></li>
+		</ul>            
+    </div><!--closes nav-->
+    
+	<div id="bannerMenu">
+    
+    </div><!--closes bannerMenu-->
+    
+    <div id="menu">
+    	<h1>Menu</h1>
+    </div><!--closes main-->
+    
+    <div id="menuSub">
+        <h1><a href="menu-tapas.html">TAPAS</a> | SALADS | <a href="#">ENTREES</a> | <a href="#">DESSERTS</a> | <a href="#">DRINKS</a></h1>
+        <br>
+        <p1>Caesar Salad</p1>
+        <br>
+        <p2>Caesar Dressing is Made to Order and Brushed onto Romaine Spears, topped with crispy bacon crumbles</p2>
+        <br>
+        <br>
+        <p1>Chopped Salad with Black Beans and Roasted Corn</p1>
+        <br>
+        <p2>Chopped Crisp Romaine with Diced Tomato, and Onion Topped with Black Beans and Roasted Corn - Served with Cilantro Lime Vinaigrette</p2>
+        <br>
+        <br>
+        <p1>Taco Salad</p1>
+        <br>
+        <p2>Black or Pinto Beans with Picadillo, Served in a Flour Tortilla Bowl with Shredded Lettuce, Diced Tomato and Onion, Queso Oaxaca,  Sour Cream, Guacamole - Served with our House Chipotle Vinaigrette</p2>
+    </div><!--closes mainSub-->
+    
+    <div id="sidebar">
+    	<h1>We Also Cater!</h1>
+    </div><!--closes sidebar-->
+    
+    <div id="sidebarSub">
+		<p1>Let Us Provide the Food</p1>
+        <br>
+        <br>
+		<p2>Home or office, let us provide the food for your party so you can relax and enjoy the company.</p2>
+		<br>
+        <br>
+        <p1>Our Patio is Great for Parties!</p1>
+        <br>
+        <br>
+        <p2>Celebrate that new promotion, engagement, anniversary, birthday party, or just for fun, any reason to get together with friends is a great reason to celebrate on our patio! </p2>
+  	</div><!--closes sidebarSub-->
+    
+    <div id="footerLeft">
+    	<p><a href="index.html">HOME</a> | <a href="#">ABOUT</a> | MENU | <a href="#">SPECIAL EVENTS</a> | <a href="#">RESERVATIONS</a> | <a href="#">CONTACT US</a></p>
+        <p>123 Calle Nueve, Fillmore, California &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Phone: 818.555.1234</p>
+    </div><!--closes footerLeft-->
+    
+    <div id="footerRight">
+    	<p>Find Us On:</p>
+    </div><!--closes footerRight-->
+    
+    <div id="footerSocF">
+    	<a href="http://www.facebook.com"><img src="_images/social_media/facebook.png" height="37" width="37" alt="Like Us on Facebook"></a>
+    </div><!--closes footerSocF-->
+
+    <div id="footerSocT">
+    	<a href="http://twitter.com"><img src="_images/social_media/twitter.png" height="37" width="37" alt="Follow Us on Twitter"></a>
+    </div><!--closes footerSocT-->
+
+    <div id="footerSocZ">
+    	<a href="http://www.zagat.com"><img src="_images/social_media/zagat.png" height="32" width="33" alt="Discover Us on Zagat"></a>
+    </div><!--closes footerSocZ-->
+
+</div><!--closes container-->
+</body>
+</html>
