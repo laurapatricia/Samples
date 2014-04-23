@@ -1,0 +1,99 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Connect with Laura Patricia</title>
+    <link href="_css/stylesheet.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+
+<body>
+	<div id="container">
+    
+    <div id="navBar">
+    	<a href="index.html"><img src="_images/identity/laurapatricia_logo.png" height="252" width="169" alt="www.laurapatricia.me"></a>
+		<ul>
+        	<li><a href="portfolio.html">PORTFOLIO</a></li>
+            <li><a href="about.html">ABOUT</a></li>
+			<li><strong>CONNECT</strong></li>
+<!--        	<li><a href="blog.html">BLOG</a></li>		-->
+    	</ul><!--closes unordered list-->
+	</div><!--closes navBar-->
+    
+    <div id="frame">
+    	<div id="frameName">
+        	<img src="_images/identity/laurapatricia_nameplate.png" height="48" width="355" alt="Laura Patricia">
+            <p>GRAPHIC DESIGNER</p>
+        </div><!--closes frameName-->
+    
+        <div id="homeSidebarOne">
+    		<p><a href="about.html"><img src="_images/arrows/purple/body_arrow.png" height="30" width="17" alt="About Me"></a></p>
+            <p>About<br> Me</p>
+    	</div><!--closes homeSidebarOne-->
+        
+        <div id="frameOneConnect">
+            <h1>
+            	Hello there!
+			</h1>
+            <p>
+				I’m new on the social media scene, but great news...<br>You can find me! 
+				<ul>
+                	<li>
+                    	<a href="http://be.net/laurapatricia"><img src="_images/social_media/purple/behance.png" height="41" width="68" alt="Laura Patricia at Behance"></a>
+                    </li>
+                	<li>
+                    	<a href="https://www.facebook.com/LauraPatricia"><img src="_images/social_media/purple/facebook.png" height="41" width="20" alt="Laura Patricia on Facebook"></a>
+                    </li>
+                	<li>
+                    	<a href="http://www.linkedin.com/pub/laura-patricia-marshall/32/43/78b"><img src="_images/social_media/purple/linked-in.png" height="40" width="41" alt="Laura Patricia on LinkedIn"></a>
+                    </li>
+                	<li>
+                    	<a href="https://twitter.com/lauras_pixels"><img src="_images/social_media/purple/twitter.png" height="41" width="52" alt="Laura Patricia's Twitter Feed"></a>
+                    </li>
+                	<li>
+                    	<a href="mailto:laurapatricia@me.com?Subject=Hello%20again" target="_top">
+<img src="_images/social_media/purple/email.png" height="42" width="58" alt="Send an Email"></a>
+                    </li>
+				</ul>
+			</p>
+            <p>
+            	Let’s appreciate, like, link, tweet, and/or email.
+                <br>&nbsp;<br>
+                I am always interested in meeting new people<br> and getting new inspiration.
+                <br>&nbsp;<br>
+                Let’s connect and work together.
+                <br>&nbsp;<br>
+                Thanks for stopping by!
+        	</p>
+        </div><!--closes frameOneConnect-->
+
+		<div id="frameTwoConnect">
+        	<h1>
+            	So Many Thanks
+            </h1>
+            	<p>
+                	I would like to thank my husband for being supportive and patient, for the last couple of years while I studied graphic design. You ate your fair share of take out without complaint.
+            		<br>
+                    <br>
+           			Now that I’ve graduated, we can have more home cooked meals together just you and me, and the pups.
+                    <br>
+                    <br>
+                    No more laptop on the table.
+                    <br>
+                    <br>
+                    During dinner anyway.
+            		<br>
+                    <br>
+                    :)
+            	</p>
+        </div><!--closes frmaeTwoConnect-->
+        
+		<div id="connectSidebarTwo">
+            <p>Portfolio</p>
+    		<p><a href="portfolio.html"><img src="_images/arrows/purple/body_arrow.png" height="30" width="17" alt="Portfolio"></a></p>
+    	</div><!--closes sidebarTwo-->
+        
+    </div><!--closes frame-->
+</div><!--closes container-->
+
+</body>
+</html>
