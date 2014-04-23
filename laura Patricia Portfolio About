@@ -1,0 +1,104 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>About Laura Patricia</title>
+    <link href="_css/stylesheet.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+
+<body>
+	<div id="container">
+    
+    <div id="navBar">
+    	<a href="index.html"><img src="_images/identity/laurapatricia_logo.png" width="169" height="252" alt="www.laurapatricia.me"></a>
+		<ul>
+        	<li><a href="portfolio.html">PORTFOLIO</a></li>
+            <li><strong>ABOUT</strong></li>
+			<li><a href="connect.html">CONNECT</a></li>
+<!--        	<li><a href="blog.html">BLOG</a></li>		-->
+    	</ul><!--closes unordered list-->
+	</div><!--closes navBar-->
+    
+    <div id="frame">
+    	<div id="frameName">
+        	<img src="_images/identity/laurapatricia_nameplate.png" height="48" width="355" alt="Laura Patricia">
+            <p>GRAPHIC DESIGNER</p>
+        </div><!--closes frameName-->
+	   
+        <div id="aboutSidebarOne">
+    		<br>
+            <p><a href="portfolio.html"><img src="_images/arrows/purple/body_arrow.png" height="30" width="17" alt="My Work"></a></p>
+            <p>Portfolio</p>
+    	</div><!--closes aboutSidebarOne-->
+       
+        <div id="frameOne">
+    	<h1>
+	        Hi. <br> I’m Laura Patricia,<br>and this is my <br> online portfolio. <img src="_images/family/laura_patricia.png" height="208" width="245" alt="me" class="img">
+        </h1>
+			<p> At the end of June 2013 I graduated! I am now an alumna from Full Sail University with a Bachelor of Science in Graphic Design. <br> &nbsp; <br> I have lived in a few places, all very different from the one before. Southern California, the Texas Hill Country, the Pacific Northwest, Northern Florida, <br> and I currently live in the Tri-State Area. <br> &nbsp; <br> Living in a variety of places has shown <br> me how to organize, quickly adapt, <br> and learn something new from <br> everyone I meet. 
+        	</p>
+	    </div><!--closes frameOne-->
+		
+		<div id="frameTwo">
+        	<p>My past holds a motley collection of<br> jobs. The most recent include being <br> a goddess of garde manger, a<br> compassionate patient services<br> representative, and an agent of awesome<br> information technology desktop support. <br> &nbsp; <br>  This mass of miscellany has taught me to communicate effectively, prioritize assignments, and manage my time. <br> &nbsp; <br>  I enjoy a stories and endeavor to be a digital raconteur. Pulling inspiration by taking photographs, reading graphic novels, cooking, and playing video games. <br> &nbsp; <br>  Let me work with you to create beautiful designs; whether they are made for print<br> or for web, I strive to create pixel<br>  perfection compositions.
+			</p>
+        </div><!--closes frameTwo-->
+        
+        <div id="moo">
+        	<img src="_images/family/moo.png" height="228" width="126" alt="Montezuma">
+        </div><!--closes moo-->
+        
+        <div id="frameThreeA">
+        	<h1>
+            	A<br>Sampling<br>of My Skillset
+			</h1>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is some of the software I <br>&nbsp;&nbsp;&nbsp;&nbsp;can navigate like a ninja.
+            	<ul>
+                	<li>Acrobat</li>
+					<li>Illustrator</li>
+					<li>Photoshop</li>
+					<li>InDesign</li>
+					<li>After Effects</li>
+       			</ul>
+          	</p>
+      	</div><!--closes frameThreeA--> 
+
+		<div id="aboutSidebarThree">
+    		<p><a href="connect.html"><img src="_images/arrows/purple/body_arrow.png" height="30" width="17" alt="Let's Connect"></a></p>
+            <p>Connect</p>
+    	</div><!--closes aboutSidebarThree-->
+        
+        <div id="frameThreeB">
+        	<p>By the by, in building my website, I have grown a stronger in using
+            	<ul>
+                	<li>Dreamweaver</li>
+					<li>CSS</li>
+					<li>HTML</li>
+					<li>jQuery</li>
+                    <li>Wordpress</li>
+              	</ul>
+          	</p>
+      	</div><!--closes frameThreeB--> 
+
+		<div id="frameFour">
+        	<h1>
+            	Personal Me <img src="_images/family/wedding.png" height="193" width="220" alt="Our Wedding" class="img">
+            </h1>
+			<p>
+            	I have been married for over nine years to my husband Ernie, mechanical engineer by day, musician by night.<br>&nbsp;<br>Together we have two pups: a blue merle miniature pinscher named Montezuma and a red miniature dachshund named Oscar.
+            </p>
+<!--            <p>
+            	Thanks for coming by!
+			</p>
+-->
+		</div><!--closes frameFour-->
+
+        <div id="oscar">
+        	<img src="_images/family/oscar.png" height="114" width="255" alt="Oscar">
+        </div><!--closes oscar-->
+
+    </div><!--closes frame-->
+</div><!--closes container-->
+
+</body>
+</html>
