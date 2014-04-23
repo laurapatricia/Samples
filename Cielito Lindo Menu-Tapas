@@ -1,0 +1,111 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Cielito Lindo :: Menu - Tapas</title>
+    <link href="_css/style.css" rel="stylesheet" type="text/css" media="all" /> 
+</head>
+
+<body>
+<div id="container">
+
+	<div id="header">
+    	<a href="index.html"><img src="_images/logo/cielito_lindo_logo.png" width="328" height="65" alt="Cielito Lindo"></a>
+        <div id="tagline">
+        	<p>Dine Under the Heavens</p>
+        </div><!--closes tagline-->
+	</div><!--closes header-->
+    
+    <div id="reservations">
+    	<a href="#"><p class="button">MAKE A RESERVATION</p></a>
+    </div><!--closes reservations-->
+    
+    <div id="nav">
+    	<ul>
+        	<li><a href="#">ABOUT</a></li>
+        	<li>MENU</li>
+        	<li><a href="#">SPECIAL EVENTS</a></li>
+        	<li><a href="#">CONTACT US</a></li>
+		</ul>            
+    </div><!--closes nav-->
+    
+	<div id="bannerMenu">
+    
+    </div><!--closes bannerMenu-->
+    
+    <div id="menu">
+    	<h1>Menu</h1>
+    </div><!--closes main-->
+    
+    <div id="menuSub">
+        <h1>TAPAS | <a href="menu-salads.html">SALADS</a> | <a href="menu-entrees.html">ENTREES</a> | <a href="menu-desserts.html">DESSERTS</a> | <a href="menu-drinks.html">DRINKS</a></h1>
+        <br>
+        <img src="_images/food/sopes_menu.jpg" width="180" height="142" alt="Sopes de Carnitas" >
+        <p1>Ceviche</p1>
+        <br>
+        <p2>Halibut, Scallops, Shrimp, and Squid Marinated in Key Lime Juice and Coconut Water, Garnished with Brunoised Jalapeno, Tomato, and Onion - Served with Homemade Chips</p2>
+        <br>
+        <br>
+        <p1>Empanadas</p1>
+        <br>
+        <p2>Marinated Blade Roast Folded in Flakey Pie Style Dough Baked until Golden Brown - Served with Guacamole</p2>
+        <br>
+        <br>
+        <p1>Flautas</p1>
+        <br>
+        <p2>Picadillo wrapped in Small Flour Tortilla - Served with Sour Cream, Guacamole, and Salsa</p2>
+        <br>
+        <br>
+        <p1>Sopes</p1>
+        <br>
+        <p2>Little Plates made of Masa with Refried Beans, Lettuce, Queso Fresco, and Sour Cream</p2>
+        <br>
+        <br>
+        <p1>Nachos</p1>
+        <br>
+        <p2>Chips with Refried Beans and Cheese <br> Chips with Refried Beans and Cheese <br> Choice of Beef Fajitas or Chicken Fajitas</p2>
+        <br>
+        <br>
+    </div><!--closes mainSub-->
+    
+    <div id="sidebar">
+    	<h1>We Also Cater!</h1>
+    </div><!--closes sidebar-->
+    
+    <div id="sidebarSub">
+		<p1>Let Us Provide the Food</p1>
+        <br>
+        <br>
+		<p2>Home or office, let us provide the food for your party so you can relax and enjoy the company.</p2>
+		<br>
+        <br>
+        <p1>Our Patio is Great for Parties!</p1>
+        <br>
+        <br>
+        <p2>Celebrate that new promotion, engagement, anniversary, birthday party, or just for fun, any reason to get together with friends is a great reason to celebrate on our patio! </p2>
+  	</div><!--closes sidebarSub-->
+    
+    <div id="footerLeft">
+    	<p><a href="index.html">HOME</a> | <a href="#">ABOUT</a> | MENU | <a href="#">SPECIAL EVENTS</a> | <a href="#">RESERVATIONS</a> | <a href="#">CONTACT US</a></p>
+        <p>123 Calle Nueve, Fillmore, California &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Phone: 818.555.1234</p>
+    </div><!--closes footerLeft-->
+    
+    <div id="footerRight">
+    	<p>Find Us On:</p>
+    </div><!--closes footerRight-->
+    
+    <div id="footerSocF">
+    	<a href="http://www.facebook.com"><img src="_images/social_media/facebook.png" height="37" width="37" alt="Like Us on Facebook"></a>
+    </div><!--closes footerSocF-->
+
+    <div id="footerSocT">
+    	<a href="http://twitter.com"><img src="_images/social_media/twitter.png" height="37" width="37" alt="Follow Us on Twitter"></a>
+    </div><!--closes footerSocT-->
+
+    <div id="footerSocZ">
+    	<a href="http://www.zagat.com"><img src="_images/social_media/zagat.png" height="32" width="33" alt="Discover Us on Zagat"></a>
+    </div><!--closes footerSocZ-->
+
+</div><!--closes container-->
+</body>
+</html>
