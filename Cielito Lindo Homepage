@@ -1,0 +1,98 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Cielito Lindo :: Homepage</title>
+    <link href="_css/style.css" rel="stylesheet" type="text/css" media="all" /> 
+</head>
+
+<body>
+<div id="container">
+
+	<div id="header">
+    	<a href="index.html"><img src="_images/logo/cielito_lindo_logo.png" width="328" height="65" alt="Cielito Lindo"></a>
+        <div id="tagline">
+        	<p>Dine Under the Heavens</p>
+        </div><!--closes tagline-->
+	</div><!--closes header-->
+    
+    <div id="reservations">
+    	<a href="#"><p class="button">MAKE A RESERVATION</p></a>
+    </div><!--closes reservations-->
+    
+    <div id="nav">
+    	<ul>
+        	<li><a href="#">ABOUT</a></li>
+        	<li><a href="menu-tapas.html">MENU</a></li>
+        	<li><a href="#">SPECIAL EVENTS</a></li>
+        	<li><a href="#">CONTACT US</a></li>
+		</ul>            
+    </div><!--closes nav-->
+    
+	<div id="banner">
+    
+    </div><!--closes banner-->
+    
+    <div id="main">
+    	<h1>Buenas Noches! Join Us on Our Outdoor Patio for Some Tapas.</h1>
+    </div><!--closes main-->
+    
+    <div id="mainSub">
+     	<a href="menu-tapas.html">
+        <ul>
+           	<li>
+               	<img src="_images/food/barbacoa_tacos.jpg">
+           	</li> 
+            <li>
+               	<img src="_images/food/sopes_de_carnitas.png">
+            </li>
+            <li>
+              	<img src="_images/food/tacos_al_pastor.png">
+            </li>
+       	</ul>
+        <p1>Barbacoa Tacos &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sopes de Carnitas &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tacos al Pastor</p1>
+        </a>
+    </div><!--closes mainSub-->
+    
+    <div id="sidebar">
+    	<h1>Recent Additions</h1>
+    </div><!--closes sidebar-->
+    
+    <div id="sidebarSub">
+		<p1>Tasty Additions to Our Menu</p1>
+        <br>
+        <br>
+		<p2>Our chefs have have re-vamped the tapas menu. It contains a few new items that are in traditional in nature but with a modern presentation.</p2>
+		<br>
+        <br>
+        <p1>Our Patio is Now Open!</p1>
+        <br>
+        <br>
+        <p2>A great big Muchas Gracias to the crew for finishing work on our patio this last week.
+        <br>Come and join us with a Roasted Jalape&ntilde;o Margarita to celebrate!</p2>
+  	</div><!--closes sidebarSub-->
+    
+    <div id="footerLeft">
+    	<p><a href="index.html">HOME</a> | <a href="#">ABOUT</a> | <a href="menu-tapas.html">MENU</a> | <a href="#">SPECIAL EVENTS</a> | <a href="#">RESERVATIONS</a> | <a href="#">CONTACT US</a></p>
+        <p>123 Calle Nueve, Fillmore, California &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Phone: 818.555.1234</p>
+    </div><!--closes footerLeft-->
+    
+    <div id="footerRight">
+    	<p>Find Us On:</p>
+    </div><!--closes footerRight-->
+    
+    <div id="footerSocF">
+    	<a href="http://www.facebook.com"><img src="_images/social_media/facebook.png" height="37" width="37" alt="Like Us on Facebook"></a>
+    </div><!--closes footerSocF-->
+
+    <div id="footerSocT">
+    	<a href="http://twitter.com"><img src="_images/social_media/twitter.png" height="37" width="37" alt="Follow Us on Twitter"></a>
+    </div><!--closes footerSocT-->
+
+    <div id="footerSocZ">
+    	<a href="http://www.zagat.com"><img src="_images/social_media/zagat.png" height="32" width="33" alt="Discover Us on Zagat"></a>
+    </div><!--closes footerSocZ-->
+
+</div><!--closes container-->
+</body>
+</html>
