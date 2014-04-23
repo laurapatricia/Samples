@@ -1,0 +1,140 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Laura Patricia's Portfolio</title>
+    <link href="_css/stylesheet.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="_css/prettyPhoto.css" rel="stylesheet" type="text/css" media="all" />
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+	<script src="_js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+		
+</head>
+
+<body>
+	<div id="container">
+    
+    <div id="navBar">
+    	<a href="index.html"><img src="_images/identity/laurapatricia_logo.png" height="252" width="169" alt="www.laurapatricia.me"></a>
+		<ul>
+        	<li><strong>PORTFOLIO</strong></li>
+            <li><a href="about.html">ABOUT</a></li>
+			<li><a href="connect.html">CONNECT</a></li>
+<!--        	<li><a href="blog.html">BLOG</a></li>		-->
+    	</ul><!--closes unordered list-->
+	</div><!--closes navBar-->
+    
+    <div id="frame">
+    	<div id="frameName">
+        	<img src="_images/identity/laurapatricia_nameplate.png" height="48" width="355" alt="Laura Patricia">
+            <p>GRAPHIC DESIGNER</p>
+        </div><!--closes frameName-->
+
+        <div id="homeSidebarOne">
+    		<p><a href="connect.html"><img src="_images/arrows/purple/body_arrow.png" height="30" width="17" alt="Let's Connect"></a></p>
+            <p>Let's<br> Connect</p>
+    	</div><!--closes homeSidebarOne-->
+        
+        <div id="frameOnePortfolio">        
+        	<a href="_images/porfolio/pieces/cielito_lindo/cielito_lindo_main.jpg" rel="prettyPhoto[gallery01]" title="Cielito Lindo, which means ‘Lovely Sky,’ is an evening restaurant. Inspired by the name, the color scheme uses dark blues from the night sky, and white hues of the moon for the type. <br> This establishment does not exist. It is a project I created that combines my love of culinary with that of web design. ">
+        	<a href="_images/porfolio/pieces/cielito_lindo/cielito_lindo_menu.jpg" rel="prettyPhoto[gallery01]">
+        	<a href="_images/porfolio/pieces/cielito_lindo/cielito_lindo_mock_up_01.jpg" rel="prettyPhoto[gallery01]">
+        	<a href="_images/porfolio/pieces/cielito_lindo/cielito_lindo_mock_up_02.jpg" rel="prettyPhoto[gallery01]"><img src="_images/porfolio/landing/cielito_lindo.png" alt="Cielito Lindo Mockup"></a>                
+        </div><!--closes frameOnePortfolio-->
+
+        <div id="frameTwoPortfolio">
+        	<a href="_images/porfolio/pieces/die_hard/mcclane.jpg" rel="prettyPhoto[gallery02]" title="During an internship at Station Four, I designed a one page website promoting the company movie night with some character illustrations." >
+        	<a href="_images/porfolio/pieces/die_hard/mastermind.png" rel="prettyPhoto[gallery02]">
+        	<a href="_images/porfolio/pieces/die_hard/henchman.png" rel="prettyPhoto[gallery02]">
+        	<a href="_images/porfolio/pieces/die_hard/hacker.png" rel="prettyPhoto[gallery02]">
+        	<a href="_images/porfolio/pieces/die_hard/plucky_sidekick.jpg" rel="prettyPhoto[gallery02]">
+        	<a href="_images/porfolio/pieces/die_hard/wife.jpg" rel="prettyPhoto[gallery02]">
+        	<a href="_images/porfolio/pieces/die_hard/that_guy.png" rel="prettyPhoto[gallery02]">
+        	<a href="_images/porfolio/pieces/die_hard/die_hard_site.jpg" rel="prettyPhoto[gallery02]">
+        	<a href="_images/porfolio/pieces/die_hard/die_hard_mockup_01.jpg" rel="prettyPhoto[gallery02]">
+        	<a href="_images/porfolio/pieces/die_hard/die_hard_mockup_02.jpg" rel="prettyPhoto[gallery02]"><img src="_images/porfolio/landing/die_hard.png"alt="Die Hard Movie Night"></a>        </div><!--closes frameTwoPortfolio-->
+
+        <div id="frameThreePortfolio">
+			<a href="_images/porfolio/pieces/trenton/logo.png" rel="prettyPhoto[gallery03]" title="Re-branding the capitol I live in was a school project.  The inspiration for the color scheme came from the barracks downtown. Usage of the star is for recognition that Trenton was briefly the nations capitol in 1784." >
+			<a href="_images/porfolio/pieces/trenton/business_card_front.png" rel="prettyPhoto[gallery03]">
+			<a href="_images/porfolio/pieces/trenton/envelope.png" rel="prettyPhoto[gallery03]">
+			<a href="_images/porfolio/pieces/trenton/letterhead.png" rel="prettyPhoto[gallery03]">
+			<a href="_images/porfolio/pieces/trenton/stationery_mockup.png" rel="prettyPhoto[gallery03]"><img src="_images/porfolio/landing/trenton.png" alt="City Re-Brand"></a>
+        </div><!--closes frameThreePortfolio-->
+
+        <div id="frameFourPortfolio">
+			<a href="_images/porfolio/pieces/gm_feature/gm_feature_layout_01.png" rel="prettyPhoto[gallery04]" title="Garde Manger Magazine sadly does not currently exist. It is a project I created that combines my love of culinary with that of photography, typography, and a balanced design." >
+			<a href="_images/porfolio/pieces/gm_feature/gm_feature_layout_02.png" rel="prettyPhoto[gallery04]">
+			<a href="_images/porfolio/pieces/gm_feature/gm_feature_mockup_01.png" rel="prettyPhoto[gallery04]">
+  			<a href="_images/porfolio/pieces/gm_feature/gm_feature_mockup_02.png" rel="prettyPhoto[gallery04]"><img src="_images/porfolio/landing/garde_manager_feature.png" alt="Garde Manger Feature"></a>
+        </div><!--closes frameFourPortfolio-->
+
+        <div id="frameFivePortfolio">
+			<a href="_images/porfolio/pieces/gm_covers/nameplate_01.png" rel="prettyPhoto[gallery05]" title="Garde Manger Magazine sadly does not currently exist. It is a project I created that combines my love of culinary with that of photography and typography." >
+			<a href="_images/porfolio/pieces/gm_covers/nameplate_02.png" rel="prettyPhoto[gallery05]">
+			<a href="_images/porfolio/pieces/gm_covers/gm_cover_layout_01.png" rel="prettyPhoto[gallery05]">
+			<a href="_images/porfolio/pieces/gm_covers/gm_cover_layout_02.png" rel="prettyPhoto[gallery05]">
+			<a href="_images/porfolio/pieces/gm_covers/gm_cover_mockup_01.png" rel="prettyPhoto[gallery05]">
+  			<a href="_images/porfolio/pieces/gm_covers/gm_cover_mockup_02.png" rel="prettyPhoto[gallery05]"><img src="_images/porfolio/landing/garde_manager_covers.png" alt="Garde Manger Covers"></a>
+        </div><!--closes frameFivePortfolio-->
+
+        <div id="frameSixPortfolio">
+			<a href="https://vimeo.com/84083889" rel="prettyPhoto[movies]" title="This lesson on Leadership was a school project in which I collaborated with two other women in different parts of the country; One in California, one in Boston, and myself in Florida. Via email and instant messaging we each put our ideas into this video lesson." ><img src="_images/porfolio/landing/leadership.png" alt="Leadership Lesson"></a>
+        </div><!--closes frameSixPortfolio-->
+
+        <div id="frameSevenPortfolio">
+  			<a href="_images/porfolio/pieces/luchadora/luchadora.png" rel="prettyPhoto[gallery07]" title="The Luchadora was a fun piece for a competition in which you had to design a piece for your favorite masked hero." ><img src="_images/porfolio/landing/luchadora.png" alt="Luchadora"></a>
+        </div><!--closes frameSevenPortfolio-->
+
+        <div id="frameEightPortfolio">
+			<a href="_images/porfolio/pieces/batons/batons_layout.png" rel="prettyPhoto[gallery08]">
+			<a href="_images/porfolio/pieces/batons/batons_mockup_01.jpg" rel="prettyPhoto[gallery08]">
+  			<a href="_images/porfolio/pieces/batons/batons_mockup_02.jpg" rel="prettyPhoto[gallery08]"><img src="_images/porfolio/landing/batons.png"alt="Batons de Clouet"></a>
+        </div><!--closes frameEightPortfolio-->
+
+        <div id="frameNinePortfolio">
+  			<a href="_images/porfolio/pieces/glass_sculpture/glass_sculpture.png" rel="prettyPhoto[gallery09]" title="The re-creation of this glass sculpture was done within Illustrator to showcase mastery of the software." ><img src="_images/porfolio/landing/glass_sculpture.png" alt="Glass Sculpture"></a>
+        </div><!--closes frameNinePortfolio-->
+
+<!--	
+    	<div id="homeSidebarTwo">
+            <p>About<br>Me</p>
+    		<p><a href="about.html"><img src="_images/arrows/body_arrow.png" height="30" width="17" alt="About"></a></p>
+    	</div><!--closes sidebarTwo-->
+        
+<!--        
+		<div id="homeSidebarThree">
+    		<p><a href="blog.html"><img src="_images/arrows/body_arrow.png" height="30" width="17" alt="Blogroll"></a></p>
+            <p>Blog</p>
+    	</div><!--closes sidebarThree-->
+
+	<script type="text/javascript" charset="utf-8">
+  		$(document).ready(function(){
+    		$("a[rel^='prettyPhoto']").prettyPhoto({
+				animation_speed: 'normal', /* fast/slow/normal */
+				slideshow: 5000, /* false OR interval time in ms */
+				autoplay_slideshow: false, /* true/false */
+				opacity: 0.50, /* Value between 0 and 1 */
+				show_title: true, /* true/false */
+				allow_resize: true, /* Resize the photos bigger than viewport. true/false */
+				default_width: 500,
+				default_height: 344,
+				counter_separator_label: '/', /* The separator for the gallery counter 1 "of" 2 */
+				theme: 'light_rounded', /* light_rounded / dark_rounded / light_square / dark_square / facebook */
+				horizontal_padding: 20, /* The padding on each side of the picture */
+				hideflash: false, /* Hides all the flash object on a page, set to TRUE if flash appears over prettyPhoto */
+				wmode: 'opaque', /* Set the flash wmode attribute */
+				autoplay: true, /* Automatically start videos: True/False */
+				modal: false, /* If set to true, only the close button will close the window */
+				deeplinking: true, /* Allow prettyPhoto to update the url to enable deeplinking. */
+				overlay_gallery: true, /* If set to true, a gallery will overlay the fullscreen image on mouse over */
+				keyboard_shortcuts: true, /* Set to false if you open forms inside prettyPhoto */
+				social_tools: false, /* html or false to disable */
+			});
+		});
+	</script>
+
+    </div><!--closes frame-->
+</div><!--closes container-->
+
+</body>
+</html>
